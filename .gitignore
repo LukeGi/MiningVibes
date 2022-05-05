@@ -1,0 +1,14 @@
+
+.gradle/7.4/
+
+.gradle/buildOutputCleanup/
+
+.gradle/vcs-1/
+
+.gradle/file-system.probe
+
+.idea/
+
+build/
+
+run/
